@@ -5,4 +5,4 @@ Queues must be identified using their resource group id's in this example its us
 
 The agentswitch.php file should be behind a secure login to prevent malicious switches
 
-![alt text](https://raw.githubusercontent.com/branflakem3/PHP_API_UCCX_AgentChange/screenshot.png
+![Screenshot](screenshot.png)
