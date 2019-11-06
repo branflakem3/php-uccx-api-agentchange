@@ -2,6 +2,7 @@
 ## Allow Agents to switch between two queues via Cisco UCCX API v11.x
 ![Screenshot](screenshot.png)
 
+### I have used this on wordpress with great success
 - Queues must be identified using their resource group id's in this example its using resource groups 2 & 3
 - The agentswitch.php file should be behind a secure login to prevent malicious switching
 
