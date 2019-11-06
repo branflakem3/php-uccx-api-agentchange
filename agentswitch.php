@@ -22,7 +22,7 @@ $apibasicauth = base64_encode("UCCX_ADMIN_USER:PASSWORD");
 $currentpageurl = "site/currentpage.php"
 $queue1 = "Customer Service Grp";
 $queue1ResGrpID = '2';
-$queue2 = "Main Number Grp";
+$queue2 = "Operator Grp";
 $queue2ResGrpID = '3';
 
 //==========================================//
