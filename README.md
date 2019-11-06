@@ -1,4 +1,4 @@
-# PHP_API_UCCX_AgentChange
+# php-uccx-api-agentchange
 ## Allow Agents to switch between two queues via Cisco UCCX API v11.x
 ![Screenshot](screenshot.png)
 
