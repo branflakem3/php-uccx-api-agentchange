@@ -7,7 +7,7 @@
 - The agentswitch.php file should be behind a secure login to prevent malicious switching
 
 ### Developer guide from Cisco was very helpful
-https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cust_contact/contact_center/crs/express_11_5/reference/guide/uccx_b_uccx-report-developer-guide_new.html
+https://developer.cisco.com/docs/contact-center-express/
 
 ## Customize these variables to your environment
 ```
